@@ -28,4 +28,4 @@ function setClockWithCurrentTime() {
   updateClock(hours, minutes, seconds);
 }
 
-setInterval(setClockWithCurrentTime, 1000);
+setInterval(setClockWithCurrentTime, 1000); 
